@@ -1,0 +1,11 @@
+# Pastas de compilação do .NET
+bin/
+obj/
+
+# Arquivos de segredos (O MAIS IMPORTANTE)
+appsettings.json
+appsettings.Development.json
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.vs/
