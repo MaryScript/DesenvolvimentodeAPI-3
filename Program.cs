@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<ExoContext, ExoContext>();
 builder.Services.AddControllers();
 builder.Services.AddTransient<ProjetoRepository, ProjetoRepository>();
+builder.Services.AddTransient<UsuarioRepository, UsuarioRepository>();
 var connectionString = builder.Configuration.GetConnectionString("ConexaoPadrao");
 IServiceCollection serviceCollection = builder.Services.AddDbContext<ExoContext>(options =>
     options.UseSqlServer(connectionString));

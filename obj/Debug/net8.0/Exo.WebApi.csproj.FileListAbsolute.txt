@@ -251,3 +251,4 @@ C:\Users\maria\OneDrive\Documentos\desenvolvimento de api\webapi\obj\Debug\net8.
 C:\Users\maria\OneDrive\Documentos\desenvolvimento de api\webapi\obj\Debug\net8.0\Exo.WebApi.pdb
 C:\Users\maria\OneDrive\Documentos\desenvolvimento de api\webapi\obj\Debug\net8.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\maria\OneDrive\Documentos\desenvolvimento de api\webapi\obj\Debug\net8.0\ref\Exo.WebApi.dll
+C:\Users\maria\OneDrive\Documentos\desenvolvimento de api\webapi\obj\Debug\net8.0\Exo.WebApi.sourcelink.json
